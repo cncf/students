@@ -13,13 +13,12 @@ A Professor can design a project that solves a real work problem and/or show how
 - Implement a solution that solves a real life problem
 - Develop new features for a CNCF project
  
-### Speakers and other contributions
-These initiatives should not be only focused on coding. Students can also be speakers or social media contributors, like the [CNCF Ambassador Program](https://github.com/cncf/ambassadors).
- 
 ### Open Syllabus
 Professors can work on open content of their courses and start to include CNCF technologies into their classes and projects, generating content as workshops, tutorials, etc.
  
 ## Student Program Examples
+Below are some examples of how students around the world have grown within the cloud native community. Do you have an example that you would like to share? Please submit a [pull request](https://github.com/cncf/students/pulls) to add it. 
+
 ### Students Presenting a Class Project
 The students of USAC, University of Guatemala presented a project about a high concurrency system that displays real time information about Covid-19, this project used cloud native technologies such as Kubernetes, Linkerd, gRPC, Prometheus, and others. Charles Pretzer from Linkerd Community and Field Engineer of Buoyant, helped answer questions and invited students to join the Linkerd Community.
 - [Realtime COVID-19 Display System Using Linkerd](https://www.youtube.com/watch?v=XWlpS78wRks)
