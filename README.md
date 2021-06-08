@@ -18,7 +18,7 @@ Many campuses have existing student organizations focused on computer science wh
 
 _Who can I reach out to for help?_
 
-CNCF has [Ambassadors](https://github.com/cncf/ambassadors) all around the world with experience organizing local cloud native communities. If you have questions about the program or this toolkit, please contact [students@cncf.io](mailto:students@cncf.io). 
+CNCF has [Ambassadors](https://github.com/cncf/ambassadors) all around the world with experience organizing local cloud native communities. If you have questions about the program or this toolkit, please contact [students@cncf.io](mailto:students@cncf.io). You can also contact us in the [CNCF slack #students channel](https://cloud-native.slack.com/archives/C01B6B7HM8S) for more information.
 
 _I have an idea for how to make this better. What do I do?_
 
