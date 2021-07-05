@@ -1,6 +1,9 @@
 # CNCF Student Program Ideas
 This page gives a list of program ideas, resources, meeting ideas, and groups to get students involved in the cloud native ecosystem. Students going through these programs will be able to gain experience using cloud native technologies for their future jobs and develop skills to contribute in open source projects.
 
+### CNCF Student Ambassador
+Want to start a CNCF Student chapter under the [Official CNCF Students Community Group](https://community.cncf.io/cloud-native-students/) for your local community / university? Head over to the [CNCF Student Ambassador page](cncf-student-ambassador.md).
+
 ### Contributing to open source projects
 Students that want to become contributors to open source projects in the cloud native ecosystem can find more information on the [contributor page](https://contribute.cncf.io/).
 
