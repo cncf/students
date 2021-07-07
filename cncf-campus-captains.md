@@ -27,7 +27,7 @@ Private CNCF Student Ambassadors Slack channel for questions/queries
 We'll have CNCF Campus Captains calls where you'll get to meet other captains from around the world and share the good work that you are doing. During these calls, we'll be discussing how to scale your communities, ideas for events, and best practices to follow. It's also a place to ask questions, give/receive feedback, and learn from others. You will also have the opportunity to engage with other Campus Captains at CNCF events like [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/).
 
 ## Next Steps
-Interested in being a CNCF Campus Captain and organizing events on your campus? Please apply for a [community group for your campus](https://github.com/cncf/communitygroups#how-to-apply). You can also find the [best practices there](https://github.com/cncf/communitygroups/blob/main/best_practices.md).
+Interested in being a CNCF Campus Captain and organizing events on your campus? Please apply for a [community group for your campus](https://github.com/cncf/communitygroups#how-to-apply). You can also find the [best practices here](https://github.com/cncf/communitygroups/blob/main/best_practices.md) and [training material for the Bevy platform here](https://github.com/cncf/communitygroups#bevy-training).
 
 ## Point of contact
 - [Kunal Kushwaha](kunalkushwaha453@gmail.com)
