@@ -67,7 +67,11 @@ The Linux Foundation has many [free training courses](https://www.edx.org/school
 
 ## 4. **Kubernetes and Cloud Native Associate Certification**
 
-More info coming soon.
+Kuberentes and Cloud Native Associate Certification is a multiple-choice certification exam testing entry-level knowledge and skills in Kubernetes and the wider cloud native ecosystem. This exam is intended to demonstrate this knowledge, including how to deploy an application using basic kubectl commands, the architecture of Kubernetes (containers, pods, nodes, clusters), understanding the cloud native landscape and projects (storage, networking, GitOps, service mesh), and understanding the principles of cloud native security. CNCF developed the KCNA to help bring more entry-level talent, like student, into the cloud native community.
+
+[KCNA Cert Page](https://www.cncf.io/certification/kcna/)
+
+[Sign up today!](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
 
 ## 5. **Creating a local community and joining the global student community**
 
