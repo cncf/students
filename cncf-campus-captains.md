@@ -17,11 +17,11 @@ Note that these are just a few of the examples, you can experiment and try out n
 
 ## Support from CNCF
 To support your work, you'll be receiving the following support from CNCF:
-Swag for events # TBD until tomorrow
-Support getting speakers
-Mentorship for leading a community
-Coupons for CNCF events
-Private CNCF Student Ambassadors Slack channel for questions/queries
+- Swag for events # TBD until tomorrow
+- Support getting speakers
+- Mentorship for leading a community
+- Coupons for CNCF events
+- Private CNCF Student Ambassadors Slack channel for questions/queries
 
 ## Campus Captains Check in
 We'll have CNCF Campus Captains calls where you'll get to meet other captains from around the world and share the good work that you are doing. During these calls, we'll be discussing how to scale your communities, ideas for events, and best practices to follow. It's also a place to ask questions, give/receive feedback, and learn from others. You will also have the opportunity to engage with other Campus Captains at CNCF events like [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/).
