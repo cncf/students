@@ -136,7 +136,7 @@ If you wish to engage with CNCF Students, please don't hesitate to share your id
 * Github discussions for external communications with participants
     * https://github.com/cncf/students/discussions
 * CNCF Slack
-    * #students
+    * [#students](https://cloud-native.slack.com/archives/C01B6B7HM8S)
 * Website
     * https://github.com/cncf/students
 * Email at students@cncf.io
