@@ -48,9 +48,9 @@ _The path ahead_
 
 Students joining the cloud native community are setting themselves up for an interesting and potentially lucrative career path. If you don’t know what cloud native computing is, check out these resources.
 
-[CNCF Charter](https://github.com/cncf/foundation/blob/master/charter.md)
+- [CNCF Charter](https://github.com/cncf/foundation/blob/master/charter.md)
 
-[Cloud Native Glossary](https://github.com/cncf/glossary)
+- [Cloud Native Glossary](https://github.com/cncf/glossary)
 
 ## 2. **Attend [KubeCon + CloudNativeCon](http://kubecon.io/) and [Kubernetes Community Days](https://github.com/cncf/kubernetes-community-days)**
 
@@ -64,13 +64,13 @@ An opportunity for students to participate in the KubeCon + CloudNativeCon stude
 
 The Linux Foundation has many [free training courses](https://www.edx.org/school/linuxfoundationx) to help prepare you for your journey through cloud native. A few recommended courses are:
 
-[Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
+- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
 
-[Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
+- [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 
-[Introduction to DevOps and Site Reliability Engineering](https://www.edx.org/course/introduction-to-devops-and-site-reliability-engineering)
+- [Introduction to DevOps and Site Reliability Engineering](https://www.edx.org/course/introduction-to-devops-and-site-reliability-engineering)
 
-[Introduction to Service Mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
+- [Introduction to Service Mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
 
 ## 4. **Start contributing to open source projects**
 
@@ -80,9 +80,9 @@ Contributing to open source has many benefits from boosting career prospects to 
 
 Kuberentes and Cloud Native Associate Certification is a multiple-choice certification exam testing entry-level knowledge and skills in Kubernetes and the wider cloud native ecosystem. This exam is intended to demonstrate this knowledge, including how to deploy an application using basic kubectl commands, the architecture of Kubernetes (containers, pods, nodes, clusters), understanding the cloud native landscape and projects (storage, networking, GitOps, service mesh), and understanding the principles of cloud native security. CNCF developed the KCNA to help bring more entry-level talent, like student, into the cloud native community.
 
-[KCNA Cert Page](https://www.cncf.io/certification/kcna/)
+- [KCNA Cert Page](https://www.cncf.io/certification/kcna/)
 
-[Sign up today!](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
+- [Sign up today!](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
 
 ## 6. **Creating a local community and joining the global student community**
 
@@ -96,34 +96,34 @@ CNCF participates in a variety of paid mentoring programs to encourage students 
 
 Once students have gotten their feet wet with cloud native technologies, CNCF also provides a variety of more in depth training courses including:
 
-[Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
 
-[Container Fundamentals](https://training.linuxfoundation.org/training/containers-fundamentals/)
+- [Container Fundamentals](https://training.linuxfoundation.org/training/containers-fundamentals/)
 
-[Kubernetes Fundamentals](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)
+- [Kubernetes Fundamentals](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)
 
-[Kubernetes for Developers](https://training.linuxfoundation.org/training/kubernetes-for-developers/)
+- [Kubernetes for Developers](https://training.linuxfoundation.org/training/kubernetes-for-developers/)
 
-[Kubernetes Security Essentials](https://training.linuxfoundation.org/training/kubernetes-security-essentials-lfs260/)
+- [Kubernetes Security Essentials](https://training.linuxfoundation.org/training/kubernetes-security-essentials-lfs260/)
 
-[Monitoring Systems and Services with Prometheus](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)
+- [Monitoring Systems and Services with Prometheus](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)
 
-[Managing Kubernetes Applications with Helm](https://training.linuxfoundation.org/training/managing-kubernetes-applications-with-helm-lfs244/)
+- [Managing Kubernetes Applications with Helm](https://training.linuxfoundation.org/training/managing-kubernetes-applications-with-helm-lfs244/)
 
-[Cloud Native Logging with Fluentd](https://training.linuxfoundation.org/training/cloud-native-logging-with-fluentd-lfs242/)
+- [Cloud Native Logging with Fluentd](https://training.linuxfoundation.org/training/cloud-native-logging-with-fluentd-lfs242/)
 
-[Introduction to Kubernetes on Edge](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
+- [Introduction to Kubernetes on Edge](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
 
 
 ## 9. **Getting Certified**
 
 CNCF has three different certifications for people who want to show their experience working with cloud native technologies. These certifications can even lead to [job opportunities after graduation](https://www.cncf.io/blog/2020/12/03/success-story-kubernetes-certifications-help-recent-graduate-stand-out-from-the-crowd-and-quickly-obtain-an-engineering-job/). They are:
 
-[Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+- [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
-[Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+- [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
-[Certified Kubernetes Security Specialist](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+- [Certified Kubernetes Security Specialist](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
 
 ## 10. **Finding a job**
 
