@@ -119,11 +119,13 @@ Once students have gotten their feet wet with cloud native technologies, CNCF al
 
 CNCF has three different certifications for people who want to show their experience working with cloud native technologies. These certifications can even lead to [job opportunities after graduation](https://www.cncf.io/blog/2020/12/03/success-story-kubernetes-certifications-help-recent-graduate-stand-out-from-the-crowd-and-quickly-obtain-an-engineering-job/). They are:
 
-- [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+- [Certified Kubernetes Administrator CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
-- [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+- [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
-- [Certified Kubernetes Security Specialist](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+- [Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+
+- [Prometheus Certified Associate (PCA)](https://training.linuxfoundation.org/certification/prometheus-certified-associate/)
 
 ## 10. **Finding a job**
 
