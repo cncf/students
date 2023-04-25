@@ -127,6 +127,8 @@ CNCF has three different certifications for people who want to show their experi
 
 - [Prometheus Certified Associate (PCA)](https://training.linuxfoundation.org/certification/prometheus-certified-associate/)
 
+- [Kubernetes And Cloud Security Associate (KCSA)](https://www.cncf.io/certification/kcsa/)
+
 ## 10. **Finding a job**
 
 CNCF has [hundreds of members](https://www.cncf.io/about/members/) many of whom are looking to hire people with experience in cloud native technologies. CNCF also has a [job board](https://jobs.cncf.io/) of companies currently hiring.
