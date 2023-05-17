@@ -1,14 +1,14 @@
 # CNCF Student Program Ideas
-This page gives a list of program ideas, resources, meeting ideas, and groups to get students involved in the cloud native ecosystem. Students going through these programs will be able to gain experience using cloud native technologies for their future jobs and develop skills to contribute in open source projects.
+This page gives a list of program ideas, resources, meeting ideas, and groups to get students involved in the cloud native ecosystem.   Students going through these programs will be able to gain experience using cloud-native technologies for their future jobs and develop skills to contribute to open-source projects.
 
 ### Contributing to open source projects
-Students that want to become contributors to open source projects in the cloud native ecosystem can find more information on the [contributor page](https://contribute.cncf.io/).
+ Students who want to become contributors to open-source projects in the cloud-native ecosystem can find more information on the [contributor page](https://contribute.cncf.io/).
 
 ### Working on a cloud native thesis
-A college student can focus their theisis on a projects that involves the implementation, or a test drive of cloud native technologies that solve real life problems, or shows different use cases for cloud native technologies.
- 
+A college student can focus their thesis on a project that involves the implementation or a test drive of cloud-native technologies that solve real-life problems or demonstrate different use cases for cloud-native technologies.
+
 ### Cloud native class projects
-A Professor can design a project that solves a real work problem and/or show how to uses cloud native technologies, the professor can explore ideas such as:
+A professor can design a project that solves a real-world problem and/or shows how to use cloud-native technologies. The professor can explore ideas such as:
 - Test new features for an specific CNCF project
 - Implement a solution that solves a real life problem
 - Develop new features for a CNCF project
@@ -28,5 +28,5 @@ This repository is an initiative to develop an open content and resources for st
 - [Operating System Syllabus and Projects](https://github.com/sergioarmgpl/operating-systems-usac-course)
  
 ### CNCF Students Day
-A CNCF Students Day was hosted in Nicaragua, as an online event, to promote CNCF technologies. Students from Guatemala and other speakers that are organizers of CNCF Community Groups participated by giving workshops and talks focused on containers, Kubernetes, and cloud native in general.
+CNCF Students Day was hosted in Nicaragua as an online event to promote CNCF technologies. Students from Guatemala and other speakers who are organizers of CNCF Community Groups participated by giving workshops and talks focused on containers, Kubernetes, and cloud-native in general.
 - [Cloud Native Students Day URACCAN](https://community.cncf.io/events/details/cncf-cloud-nativegt-presents-cloud-native-students-day-uraccan/)
