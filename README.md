@@ -17,7 +17,7 @@ By building a cloud native community on your campus, you help your fellow studen
 * Our mission is to cultivate an inclusive environment that fosters collaboration, innovation, and the advancement of cloud-native computing, regardless of students' backgrounds.
 * We not only inspire and empower the next generation of cloud-native leaders but also foster a supportive community that encourages the growth and retention of contributors.
 * Through the power of open-source, we strive to drive the adoption and growth of cloud-native technologies to make a positive impact on the world.
-* We are dedicated to increasing CNCF project participation in mentorship programs by working closing with the `Mentoring WG` and general contributions to encourage the next generation of leaders in the field.
+* We are dedicated to increasing CNCF project participation in mentorship programs by working closely with the `Mentoring WG` and general contributions to encourage the next generation of leaders in the field.
 * Our goal is to expand participation in the KubeCon student track to provide a platform for students to showcase their ideas and connect with industry professionals.
 * We aim to provide a centralized platform that serves as a one-stop-shop for students seeking to get involved in CNCF communities.
 * We plan to establish a mentor-mentee framework that fosters collaboration, communication, and knowledge-sharing among students and industry professionals.
@@ -33,7 +33,7 @@ By building a cloud native community on your campus, you help your fellow studen
 
 _The path ahead_
 
-1. Learn the why driving cloud native and making it so impactful
+1. Learn the reasons why cloud native computing is so important and the impact it has had.
 2. Attend the world’s largest open source conference, KubeCon + CloudNativeCon
 3. Get introduced to the technical concepts behind cloud native through free training courses
 4. Start contributing to open source projects
@@ -78,7 +78,7 @@ Contributing to open source has many benefits from boosting career prospects to 
 
 ## 5. **Kubernetes and Cloud Native Associate Certification**
 
-Kuberentes and Cloud Native Associate Certification is a multiple-choice certification exam testing entry-level knowledge and skills in Kubernetes and the wider cloud native ecosystem. This exam is intended to demonstrate this knowledge, including how to deploy an application using basic kubectl commands, the architecture of Kubernetes (containers, pods, nodes, clusters), understanding the cloud native landscape and projects (storage, networking, GitOps, service mesh), and understanding the principles of cloud native security. CNCF developed the KCNA to help bring more entry-level talent, like student, into the cloud native community.
+Kubernetes and Cloud Native Associate Certification is a multiple-choice certification exam testing entry-level knowledge and skills in Kubernetes and the wider cloud native ecosystem. This exam is intended to demonstrate this knowledge, including how to deploy an application using basic kubectl commands, the architecture of Kubernetes (containers, pods, nodes, clusters), understanding the cloud native landscape and projects (storage, networking, GitOps, service mesh), and understanding the principles of cloud native security. CNCF developed the KCNA to help bring more entry-level talent, like student, into the cloud native community.
 
 - [KCNA Cert Page](https://www.cncf.io/certification/kcna/)
 
