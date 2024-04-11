@@ -156,16 +156,11 @@ _I love this toolkit, but don’t know where to start building my community._
 
 Many campuses have existing student organizations focused on computer science where you may find interested members. Many tech companies also run campus ambassador programs, like [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) or [Github Campus Experts](https://education.github.com/experts), that you can join or work with to build communities on your campus. You may also want to connect with your careers center as these skills can lead to job opportunities.
 
-_Who can I reach out to for help?_
-
-CNCF has [Ambassadors](https://github.com/cncf/ambassadors) all around the world with experience organizing local cloud native communities. If you have questions about the program or this toolkit, please contact [students@cncf.io](mailto:students@cncf.io). You can also contact us in the [CNCF slack #students channel](https://cloud-native.slack.com/archives/C01B6B7HM8S) for more information.
+_Who can I reach out to for help?_CNCF has [Ambassadors](https://github.com/cncf/ambassadors) all around the world with experience organizing local cloud native communities. If you have questions about the program or this toolkit, please contact [students@cncf.io](mailto:students@cncf.io). You can also contact us in the [CNCF slack #students channel](https://cloud-native.slack.com/archives/C01B6B7HM8S) for more information.
 
 _I have an idea for how to make this better. What do I do?_
 
 Please submit an issue or pull request to the GitHub repo or reach out to [students@cncf.io](mailto:students@cncf.io).
-
 # Future
 
-In the times ahead, it would be beneficial to introduce a more formal approach for individuals utilizing the CNCF Students resources such as the Twitter account, community groups, possibly through the submission of a PR. Moreover, the CNCF Students can extend their assistance to aid with local events, appointing student ambassadors, offering training sessions, and other related endeavors.
-
-For more details, check out the [Program Ideas](./program-ideas.md) section.
+In the times ahead, it would be beneficial to introduce a more formal approach for individuals utilizing the CNCF Students resources such as the Twitter account, community groups, possibly through the submission of a PR. Moreover, the CNCF Students can extend their assistance to aid with local event
