@@ -169,3 +169,8 @@ Please submit an issue or pull request to the GitHub repo or reach out to [stude
 In the times ahead, it would be beneficial to introduce a more formal approach for individuals utilizing the CNCF Students resources such as the Twitter account, community groups, possibly through the submission of a PR. Moreover, the CNCF Students can extend their assistance to aid with local events, appointing student ambassadors, offering training sessions, and other related endeavors.
 
 For more details, check out the [Program Ideas](./program-ideas.md) section.
+
+
+im adding one more line for testing.
+im adding the 2nd line.
+my 3rd line.
